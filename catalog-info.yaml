@@ -7,6 +7,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: backster
     jenkins.io/job-full-name: 'jo'
+    github.com/project-slug: 'antweiss/backster'
 spec:
   type: service
   lifecycle: production
