@@ -6,6 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: backster
+    jenkins.io/job-full-name: 'jo'
 spec:
   type: service
   lifecycle: production
