@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: backster
-    jenkins.io/job-full-name: 'jo'
+    jenkins.io/job-full-name: 'joi'
     #github.com/project-slug: 'antweiss/backster'
 spec:
   type: service
